@@ -14,13 +14,9 @@ baseurl:          /
 
 author:
   name:           'Peter Gee'
+  url:            https://twitter.com/mdo
 
 paginate:         5
-
-# Collections
-collections:
-  projects:
-    output: true
 
 # Custom vars
 linkedin:
