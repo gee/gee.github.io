@@ -14,9 +14,13 @@ baseurl:          /
 
 author:
   name:           'Peter Gee'
-  url:            https://twitter.com/mdo
 
 paginate:         5
+
+# Collections
+collections:
+  projects:
+    output: true
 
 # Custom vars
 linkedin:
@@ -25,3 +29,6 @@ linkedin:
 plugins:
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
