@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Census Tracts Web Crawler &middot; Peter Gee
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"> -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Peter Gee" />
+  
+  <!-- SEO -->
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Census Tracts Web Crawler | Peter Gee</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Census Tracts Web Crawler" />
+<meta name="author" content="Peter Gee" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Software engineer studying computer science at UNWSP" />
+<meta property="og:description" content="Software engineer studying computer science at UNWSP" />
+<link rel="canonical" href="http://localhost:4000/projects/demi/" />
+<meta property="og:url" content="http://localhost:4000/projects/demi/" />
+<meta property="og:site_name" content="Peter Gee" />
+<meta property="og:image" content="http://localhost:4000/public/images/demi-map-2.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-01-04T16:46:41-06:00" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/projects/demi/","image":"http://localhost:4000/public/images/demi-map-2.png","author":{"@type":"Person","name":"Peter Gee"},"description":"Software engineer studying computer science at UNWSP","headline":"Census Tracts Web Crawler","dateModified":"2019-01-04T16:46:41-06:00","datePublished":"2019-01-04T16:46:41-06:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/demi/"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Peter Gee
+        </a>
+      </h1>
+      <p class="lead">Software engineer studying computer science at <a href="https://unwsp.edu/" target="_blank">UNWSP</a></p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="http://localhost:4000">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/about/">About</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/archive/">Archive</a>
+          
+        
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/projects/">Projects</a>
+          
+        
+      
+        
+      
+        
+      
+        
+      
+
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/peterggee/" target="_blank">LinkedIn</a>
+    </nav>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Census Tracts Web Crawler</h1>
+  <p><img src="/public/images/demi-header.png" /></p>
+
+<p><img src="/public/images/demi-logo.png" width="300" align="right" /></p>
+
+<p>One day at the Child Evangelism Fellowship Twin Cities office I was assigned the task of manually gathering data from the United States Census Bureau’s <a href="https://factfinder.census.gov/">American Fact Finder</a>. It seemed reasonable enough until I realized we needed demographic studies for Hennepin County’s 300 census tracts at minimum, and ideally we’d have studies for all of Minnesota’s 1,336 tracts. Each study required several minutes to make. It became clear that doing the work manually would cost days, even weeks of monotonous work. Worse, the process would need to be repeated whenever new data emerged. There had to be a better solution!</p>
+
+<p><img src="/public/images/demi-output.jpg" width="300" align="right" /></p>
+
+<p>I brought up the idea of creating a bot to do the process automatically. My supervisor agreed, and so I wrote a Java bot (nicknamed “Demi”) using an API called <a href="http://www.seleniumhq.org/">Selenium</a>. It included two parts: data scraping and study creation. Writing the program took much less time than the manual process would have, and it will save even more time when new census data becomes available.</p>
+
+<p>Here’s one of the output’s 1,336 studies:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Demographic Study: Census Tract 1.01
+
+1. Population
+        Total:            3157
+        Under age 15:     22.4% or 707
+                Male:     56.29% or 398
+                Female:   43.28% or 306
+
+2. Ethnicities
+        White:            43.3%
+        African:          18.7%
+        Native:           1.4%
+        Asian:            21.6%
+        Hispanic:         8.6%
+        Other:            6.4%
+
+3. Families with children
+        Married couple:   157
+        Single male:      44
+        Single female:    137
+</code></pre></div></div>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

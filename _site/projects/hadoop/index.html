@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Hadoop Clusters &middot; Peter Gee
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"> -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Peter Gee" />
+  
+  <!-- SEO -->
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Hadoop Clusters | Peter Gee</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Hadoop Clusters" />
+<meta name="author" content="Peter Gee" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Software engineer studying computer science at UNWSP" />
+<meta property="og:description" content="Software engineer studying computer science at UNWSP" />
+<link rel="canonical" href="http://localhost:4000/projects/hadoop/" />
+<meta property="og:url" content="http://localhost:4000/projects/hadoop/" />
+<meta property="og:site_name" content="Peter Gee" />
+<meta property="og:image" content="http://localhost:4000/public/images/hadoop-logo-2.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-01-04T16:46:41-06:00" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/projects/hadoop/","image":"http://localhost:4000/public/images/hadoop-logo-2.png","author":{"@type":"Person","name":"Peter Gee"},"description":"Software engineer studying computer science at UNWSP","headline":"Hadoop Clusters","dateModified":"2019-01-04T16:46:41-06:00","datePublished":"2019-01-04T16:46:41-06:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/hadoop/"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Peter Gee
+        </a>
+      </h1>
+      <p class="lead">Software engineer studying computer science at <a href="https://unwsp.edu/" target="_blank">UNWSP</a></p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="http://localhost:4000">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/about/">About</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/archive/">Archive</a>
+          
+        
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/projects/">Projects</a>
+          
+        
+      
+        
+      
+        
+      
+        
+      
+
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/peterggee/" target="_blank">LinkedIn</a>
+    </nav>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Hadoop Clusters</h1>
+  <p><img src="/public/images/hadoop-banner.png" /></p>
+
+<p>This class assignment required that I do considerable research into a relevant operating systems topic. One topic that caught my eye was Hadoop. Specifically, I decided to create two Hadoop clusters: one in the cloud and one in my university’s Linux computer lab.</p>
+
+<p>In a Hadoop cluster, one machine is designated as the master, and all others are nodes called workers. The master distributes tasks to the workers in order to process large data sets. Hadoop itself consists of four main modules: Hadoop Common, Hadoop Distributed File System, Hadoop YARN, and Hadoop MapReduce. Each of these needed to be installed on every machine.</p>
+
+<p><img src="/public/images/hadoop-linode.png" width="300" align="right" /></p>
+
+<p>First, I wanted a cluster in the cloud. I rented three Linux servers in Dallas, Texas, from linode.com. I installed Ubuntu and Oracle’s Java Development Kit, a prerequisite to running Hadoop. I then installed each of the modules and made sure all files were properly configured.</p>
+
+<p>Using Linode, I set up a cluster with 3 systems: 1 master and 2 workers. This of course would not be practical, but this was simply an academic project. I was able to use SSH to access the three Texas systems and install Hadoop. This all worked fairly well, and I was able to accomplish my end goal, which was to successfully run a sample MapReduce program. In this case I ran a program to count the occurrences of every word in a given novel.</p>
+
+<p><img src="/public/images/hadoop-yarn.png" /></p>
+
+<p>The next day, a mysterious entity called “dr.who” accessed my systems and began running his own programs at maximum capacity. I did not expect this, but then again it should not have come as too much of a surprise given that I skipped several of the recommended security measures.</p>
+
+<p><img src="/public/images/hadoop-lab.png" /></p>
+
+<p>Second, I wanted a cluster in the university’s Linux lab. There are 19 workstations, and I used 13 in my cluster: 1 master and 12 workers. Because I did not have root permissions on the machines themselves, I had to first create 13 Ubuntu virtual machines. When it came to issuing commands in Bash, I sped up the process by using SSH to login to each of the 12 worker nodes from my master node. Looking back, this process could have been further streamlined by running a Perl script to run each command on all the nodes at once.</p>
+
+<p>Fortunately, the Linux lab is protected by the University of Northwestern – St. Paul’s security, and thus I had no need to worry about any other infiltrators. The 13-node cluster was able to run its MapReduce programs in peace, and it did so successfully after many hours of installation, configuration, troubleshooting, and so on.</p>
+
+<p><img src="/public/images/hadoop-bash.png" /></p>
+
+<p>I turned in a paper and gave an in-class presentation for COS3267 Operating Systems Concepts.</p>
+
+</div>
+
+    </div>
+
+  </body>
+</html>
