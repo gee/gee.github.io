@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello World
-category: News
 ---
 
 Hi there! I'm Peter.
