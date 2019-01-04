@@ -1,7 +1,8 @@
 ---
 layout: page
+image: /public/images/beginnings-thumbnail.png
 title: Beginnings
-permalink: projects/beginnings
+year: 2013-present
 summary: A free online game with a devoted fanbase.
 rank: 1
 ---
@@ -12,12 +13,12 @@ rank: 1
 
 Survival: Beginnings is a free online open-world adventure game written in Lua. I wrote the scripts and my brother built the models. We published it on Roblox, a growing development platform for indie gaming.
 
-* Number of play sessions: 2,000,000+
+* Number of play sessions: 2,000,000
 * Average play session duration: 30-40 minutes
-* Total playtime: 1,000,000+ hours, or 100+ years
+* Total playtime: 1,000,000
 * Peak concurrent players: 3,700
-* Lines of code: 5,000+
-* Fan-made wiki pages: 200+
+* Lines of code: 5,000
+* Fan-made wiki pages: 200
 
 <img src="/public/images/beginnings-screenshot-1.png" width="300" align="right">
 
