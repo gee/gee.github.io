@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-04T16:50:48-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Hello World</title><link href="http://localhost:4000/news/2019/01/01/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>http://localhost:4000/news/2019/01/01/hello-world</id><content type="html" xml:base="http://localhost:4000/news/2019/01/01/hello-world/">&lt;p&gt;Hi there! I’m Peter.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-08T23:47:15-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">5 Reasons to Choose Jekyll</title><link href="http://localhost:4000/news/2019/01/08/reasons-jekyll/" rel="alternate" type="text/html" title="5 Reasons to Choose Jekyll" /><published>2019-01-08T00:00:00-06:00</published><updated>2019-01-08T00:00:00-06:00</updated><id>http://localhost:4000/news/2019/01/08/reasons-jekyll</id><content type="html" xml:base="http://localhost:4000/news/2019/01/08/reasons-jekyll/">&lt;p&gt;The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. This choice especially makes sense for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developers – Jekyll lets you write your own code.&lt;/li&gt;
+  &lt;li&gt;Bloggers – Jekyll offers excellent blog support.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why. A Jekyll site hosted on GitHub Pages is:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-free&quot;&gt;1. Free&lt;/h3&gt;
+
+&lt;p&gt;GitHub Pages allows you to host an unlimited number of project sites at no cost. It works great with Jekyll, too. Although Jekyll can be hosted elsewhere and GitHub Pages supports all kinds of static site generators, I’ve found &lt;a href=&quot;https://jekyllrb.com/docs/github-pages/&quot;&gt;recommendations from Jekyll to use GitHub Pages&lt;/a&gt; and &lt;a href=&quot;https://help.github.com/articles/about-github-pages-and-jekyll/&quot;&gt;recommendations from GitHub Pages to use Jekyll&lt;/a&gt;. They belong together.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-static&quot;&gt;2. Static&lt;/h3&gt;
+
+&lt;p&gt;Everything on your site is static. This means your site is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt; – You don’t have to wait for a database or anything else on the backend because there is no backend.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lightweight&lt;/strong&gt; – There aren’t a lot of plugins or dependencies to worry about.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reliable&lt;/strong&gt; – Jekyll’s small scope means there’s no server-side software to maintain.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-flexible&quot;&gt;3. Flexible&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is great for software developers. It gives you total control and doesn’t force you to do anything you don’t want to do. However, even the less technically inclined are free to set up a website. There are all kinds of &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;free themes&lt;/a&gt; to choose from if you don’t want to design your own. Someone even made a &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;guide&lt;/a&gt; to setting up your site without using the command line.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-open-source&quot;&gt;4. Open source&lt;/h3&gt;
+
+&lt;p&gt;All the code can be &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;found on GitHub&lt;/a&gt;. This is also true of many themes, and, of course, the code for your own site if you so choose.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-owned-by-you&quot;&gt;5. Owned by you&lt;/h3&gt;
+
+&lt;p&gt;You own your content. The devs behind Jekyll could give up on the project and you’d still have online and local copies of your entire site. This isn’t true of many other platforms. They could go out of business or shut down the part of the business you rely on. You’d always be at risk of losing your content. Not so of Jekyll!&lt;/p&gt;
+
+&lt;p&gt;Free, static, flexible, open source, and owned by you. That’s what you get when you choose Jekyll on GitHub Pages. There are no doubt many other worthy options to consider, and you should look into these, but for me personally I found exactly what I wanted right here.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on GitHub Pages using Jekyll. This choice especially makes sense for:</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/news/2019/01/01/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>http://localhost:4000/news/2019/01/01/hello-world</id><content type="html" xml:base="http://localhost:4000/news/2019/01/01/hello-world/">&lt;p&gt;Hi there! I’m Peter.&lt;/p&gt;
 
 &lt;p&gt;I wrote my first line of code when I was eight, and I’ve loved it ever since. Since then I’ve created games, desktop apps, databases, macros, websites, web crawlers, trading algorithms–whatever piques my curiosity, really. I’m fascinated by interesting problems, and I enjoy writing code to solve them. I’m currently majoring in computer science at the &lt;a href=&quot;https://unwsp.edu/&quot;&gt;University of Northwestern – St. Paul&lt;/a&gt;, and I’ll graduate later this year.&lt;/p&gt;
 
