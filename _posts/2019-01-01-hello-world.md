@@ -10,6 +10,8 @@ I wrote my first line of code when I was eight, and I've loved it ever since. Si
 
 In this first post I'd like to get a few things out of the way.
 
+<!--more-->
+
 ### This is a developer blog.
 
 The focus is on technology, not on me. This is meant as a space for me to share my thoughts about relevant topics in computer science that interest me and that I believe may interest others. I will also write about projects I'm working on. This is intentionally broad because I don't want to restrict myself to specific topics so early on.

@@ -9,7 +9,7 @@ The web has no shortage of options when it comes to creating a website. I’m he
 * Developers – Jekyll lets you write your own code.
 * Bloggers – Jekyll offers excellent blog support.
 
-And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why. A Jekyll site hosted on GitHub Pages is:
+And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why.<!--more--> A Jekyll site hosted on GitHub Pages is:
 
 ### 1. Free
 
