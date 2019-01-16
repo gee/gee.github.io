@@ -6,8 +6,8 @@ category: News
 
 The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on [GitHub Pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/). This choice especially makes sense for:
 
-* Developers – Jekyll lets you write your own code.
-* Bloggers – Jekyll offers excellent blog support.
+* **Developers** – Jekyll lets you write your own code.
+* **Bloggers** – Jekyll offers excellent blog support.
 
 And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why.<!--more--> A Jekyll site hosted on GitHub Pages is:
 
