@@ -11,4 +11,6 @@ rank: 8
 
 <img src="/public/images/freegan-database.png" width="300" align="right">
 
-One day at the Child Evangelism Fellowship Twin Cities office I was assigned the task of manually gathering data from the United States Census Bureau's <a href="https://factfinder.census.gov/">American Fact Finder</a>. It seemed reasonable enough until I realized we needed demographic studies for Hennepin County's 300 census tracts at minimum, and ideally we'd have studies for all of Minnesota's 1,336 tracts. Each study required several minutes to make. It became clear that doing the work manually would cost days, even weeks of monotonous work. Worse, the process would need to be repeated whenever new data emerged. There had to be a better solution!
+Two classmates and I formed a team to develop this basic desktop application in Visual Basic .NET. One key requirement was that it must interact with a database. Thus, we included functionality both to add games and delete them. Furthermore, we were required to handle user input delicately; users were not allowed to enter a name in the "Metascore" column for example.
+
+We concluded with a written report and in-class presentation for COS2115 Computer Software Development.
