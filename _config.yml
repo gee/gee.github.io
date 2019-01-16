@@ -20,10 +20,6 @@ paginate:         5
 collections:
   projects:
     output: true
-
-# Custom vars
-linkedin:
-  url:           https://www.linkedin.com/in/peterggee/
   
 plugins:
   - jekyll-gist
