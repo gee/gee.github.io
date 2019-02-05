@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-29T23:36:37-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Random Maps</title><link href="http://localhost:4000/2019/01/29/random-maps/" rel="alternate" type="text/html" title="Random Maps" /><published>2019-01-29T00:00:00-06:00</published><updated>2019-01-29T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/29/random-maps</id><content type="html" xml:base="http://localhost:4000/2019/01/29/random-maps/">&lt;p&gt;Today we’ll be looking at random map generation in Beginnings 2. Every server will be unique. The generation algorithm consists of two parts: island selection and island placement. We also have a GUI minimap.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-05T16:19:23-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Senior Project Ideas</title><link href="http://localhost:4000/2019/02/05/senior-project-ideas/" rel="alternate" type="text/html" title="Senior Project Ideas" /><published>2019-02-05T00:00:00-06:00</published><updated>2019-02-05T00:00:00-06:00</updated><id>http://localhost:4000/2019/02/05/senior-project-ideas</id><content type="html" xml:base="http://localhost:4000/2019/02/05/senior-project-ideas/">&lt;p&gt;This semester I have two main focuses: my internship and my senior project. Last month I started an internship at &lt;a href=&quot;https://invenshure.com/&quot;&gt;Invenshure&lt;/a&gt; — more on that in a future post. This month I’m starting on my senior project. Although my advisor Dr. Zderad allows great flexibility in choosing a topic, the focus should be on actually creating something. Research is secondary for this particular project.&lt;/p&gt;
+
+&lt;p&gt;Naturally the first step is choosing a topic, and over the past couple months I’ve thought through a few ideas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3D Object Fitting Algorithm (C++)&lt;/li&gt;
+  &lt;li&gt;Bible Memory Mobile App (Java)&lt;/li&gt;
+  &lt;li&gt;Stock Market Prediction (Python)&lt;/li&gt;
+  &lt;li&gt;Beginnings 2 (Lua)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;3d-object-fitting-algorithm-c&quot;&gt;3D Object Fitting Algorithm (C++)&lt;/h3&gt;
+
+&lt;p&gt;When interviewing at &lt;a href=&quot;https://www.protolabs.com/&quot;&gt;Protolabs&lt;/a&gt; I asked: “Do you have an idea of something I could work on in preparation for the internship?”&lt;/p&gt;
+
+&lt;p&gt;My interviewers gave several topics I could learn about: version control, Visual Studio, large codebases, geometry and linear algebra, and file I/O in C++. One that stuck out was the simple task of fitting a box around a 3D object at a low level. I decided this would work well as a &lt;a href=&quot;https://en.wikipedia.org/wiki/Minimum_viable_product&quot;&gt;minimum viable product&lt;/a&gt;, and more features could be added over time: shapes more complex than a box, changes in orientation to allow for better fitting, and perhaps ultimately an algorithm that assigns a value to how well a given object fits into a given shape.&lt;/p&gt;
+
+&lt;h3 id=&quot;bible-memory-mobile-app-java&quot;&gt;Bible Memory Mobile App (Java)&lt;/h3&gt;
+
+&lt;p&gt;Recently I’ve been using &lt;a href=&quot;https://biblememory.com/&quot;&gt;The Bible Memory App&lt;/a&gt; to learn scripture. There’s a lot to like, but I can’t help but think I could do a better job. It lacks several features I consider crucial as well as some that would just be handy:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Option to learn verse numbers&lt;/li&gt;
+  &lt;li&gt;Option to memorize from the original Greek and Hebrew&lt;/li&gt;
+  &lt;li&gt;Accurate progression: the app says a verse is “memorized” the first time you work on it&lt;/li&gt;
+  &lt;li&gt;More than one way to memorize a verse&lt;/li&gt;
+  &lt;li&gt;Dark mode&lt;/li&gt;
+  &lt;li&gt;Stricter requirements: type first 2 letters, require the grammar, etc.&lt;/li&gt;
+  &lt;li&gt;In-app resources about scripture memory (articles, quotes, etc.)&lt;/li&gt;
+  &lt;li&gt;Better monetization (charging for versions of the Bible? &lt;em&gt;Really?&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sansforgetica.rmit/&quot;&gt;Sans Forgetica&lt;/a&gt; (because why not)&lt;/li&gt;
+  &lt;li&gt;Android notifications that &lt;em&gt;actually work&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Who knows, maybe there’s already an app out there that has these features. But the fact that one of the most popular options falls short of the mark tells me there’s an opportunity here.&lt;/p&gt;
+
+&lt;h3 id=&quot;stock-market-prediction-python&quot;&gt;Stock Market Prediction (Python)&lt;/h3&gt;
+
+&lt;p&gt;Perhaps the craziest idea I’ve been considering is stock market prediction. Certainly many have tried, and I too would likely fail, but failure can be glorious if you learn something in the process. Data science is an area I’m interested in but haven’t yet dived into. Even my initial research shows &lt;a href=&quot;https://hackernoon.com/i-spent-20-minutes-trying-to-predict-the-stock-market-with-ai-these-are-my-results-59d48c7a388a&quot;&gt;someone achieving 54% accuracy in 20 minutes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve already written a &lt;a href=&quot;/projects/currency/&quot;&gt;profitable trading algorithm&lt;/a&gt;, but competition would be several orders of magnitude greater on the actual stock market. Of course I would start with a simulator to make trades if I ever got to that point.&lt;/p&gt;
+
+&lt;p&gt;The stock market appeals to me because gathering data and judging success are both straight forward. This means I could focus on the algorithm itself.&lt;/p&gt;
+
+&lt;h3 id=&quot;beginnings-2-lua&quot;&gt;Beginnings 2 (Lua)&lt;/h3&gt;
+
+&lt;p&gt;While every idea here appeals to me, the one I am actually most excited about is finishing &lt;a href=&quot;/projects/beginnings/&quot;&gt;Beginnings 2&lt;/a&gt;. Although the game is nearly finished, even the remaining work is larger than a typical senior project. With that in mind, I asked my advisor whether this would be an option and he encouraged it. I’ve now decided that this will be my senior project, and I believe it’s the push I need to finally finish the game.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">This semester I have two main focuses: my internship and my senior project. Last month I started an internship at Invenshure — more on that in a future post. This month I’m starting on my senior project. Although my advisor Dr. Zderad allows great flexibility in choosing a topic, the focus should be on actually creating something. Research is secondary for this particular project. Naturally the first step is choosing a topic, and over the past couple months I’ve thought through a few ideas: 3D Object Fitting Algorithm (C++) Bible Memory Mobile App (Java) Stock Market Prediction (Python) Beginnings 2 (Lua)</summary></entry><entry><title type="html">Random Maps</title><link href="http://localhost:4000/2019/01/29/random-maps/" rel="alternate" type="text/html" title="Random Maps" /><published>2019-01-29T00:00:00-06:00</published><updated>2019-01-29T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/29/random-maps</id><content type="html" xml:base="http://localhost:4000/2019/01/29/random-maps/">&lt;p&gt;Today we’ll be looking at random map generation in Beginnings 2. Every server will be unique. The generation algorithm consists of two parts: island selection and island placement. We also have a GUI minimap.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
