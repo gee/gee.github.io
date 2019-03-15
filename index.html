@@ -17,6 +17,8 @@ title: Home
     {% if post.image %}<img src="{{ post.image }}">{% endif %}
 
     {{ post.excerpt }}
+
+    <a href="{{ post.url }}">Read more</a>
   </div>
   {% endfor %}
 </div>
