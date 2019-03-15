@@ -2,9 +2,9 @@
 layout: post
 title: 'Interview Impressions: RevTrak'
 category: News
+image: /public/images/interview-impressions-revtrak-logo.jpg
+image_is_header: true
 ---
-
-<img src="/public/images/interview-impressions-revtrak-logo.jpg">
 
 Over the course of my summer 2018 internship search I applied to around 10 companies. The only company I ended up interviewing with was the only one that reached out to me first: [RevTrak](https://www.revtrak.com/), a K-12 payment processing company. They most likely contacted me due to my connections with the human resources assistant and other employees through church.
 

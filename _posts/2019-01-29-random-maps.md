@@ -2,6 +2,8 @@
 layout: post
 title: Random Maps
 category: News
+image: /public/images/random-maps-minimap.jpg
+image_is_header: false
 ---
 
 Today we'll be looking at random map generation in Beginnings 2. Every server will be unique. The generation algorithm consists of two parts: island selection and island placement. We also have a GUI minimap.
@@ -22,6 +24,6 @@ You may have noticed that the continent and the volcano are always present. It's
 
 ### Minimap
 
-<figure><img src="/public/images/random-maps-minimap.jpg"><figcaption>A GUI showing the original map</figcaption></figure>
+<figure><img src="{{ page.image }}"><figcaption>A GUI showing the original map</figcaption></figure>
 
 This GUI minimap was developed by our faithful admin who goes by the username CounterCrysis. At the moment it takes a "screenshot" of the map when a server launches, though it would be interesting to pursue a minimap that updates in real time.
