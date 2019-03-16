@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-16T01:20:28-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Interview Impressions: RevTrak</title><link href="http://localhost:4000/2019/03/14/interview-impressions-revtrak/" rel="alternate" type="text/html" title="Interview Impressions: RevTrak" /><published>2019-03-14T00:00:00-05:00</published><updated>2019-03-14T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/14/interview-impressions-revtrak</id><content type="html" xml:base="http://localhost:4000/2019/03/14/interview-impressions-revtrak/">&lt;p&gt;Over the course of my summer 2018 internship search I applied to around 10 companies. The only company I ended up interviewing with was the only one that reached out to me first: &lt;a href=&quot;https://www.revtrak.com/&quot;&gt;RevTrak&lt;/a&gt;, a K-12 payment processing company. They most likely contacted me due to my connections with the human resources assistant and other employees through church.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-16T01:31:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Interview Impressions: Prep Network</title><link href="http://localhost:4000/2019/03/16/interview-impressions-prep-network/" rel="alternate" type="text/html" title="Interview Impressions: Prep Network" /><published>2019-03-16T00:00:00-05:00</published><updated>2019-03-16T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/16/interview-impressions-prep-network</id><content type="html" xml:base="http://localhost:4000/2019/03/16/interview-impressions-prep-network/">&lt;p&gt;I was introduced to &lt;a href=&quot;https://www.prepnetwork.com/&quot;&gt;Prep Network&lt;/a&gt; when its CEO contacted me via my enrollment in &lt;a href=&quot;https://scitechmn.org/&quot;&gt;SciTechsperience&lt;/a&gt;. Prep Network’s goal is “to be the country’s most comprehensive resource for evaluation and recruitment in high school athletics.” Having only 11 full time employees, it’s the smallest company where I’ve interviewed. We scheduled a phone interview which lasted 23 minutes.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Questions asked included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tell me about yourself.&lt;/li&gt;
+  &lt;li&gt;Have you had a chance to research Prep Network? What do you know about us?&lt;/li&gt;
+  &lt;li&gt;Why did you decide to apply here? What appeals to you?&lt;/li&gt;
+  &lt;li&gt;Why did you major in Computer Science?&lt;/li&gt;
+  &lt;li&gt;What area of Computer Science do you focus on? Front end, back end, full stack?&lt;/li&gt;
+  &lt;li&gt;What else are you passionate about?&lt;/li&gt;
+  &lt;li&gt;How do you manage work/life balance (or academic/life balance)?&lt;/li&gt;
+  &lt;li&gt;What are your expectations for the internship?&lt;/li&gt;
+  &lt;li&gt;What are your favorite programming languages?&lt;/li&gt;
+  &lt;li&gt;Do you have PHP experience?&lt;/li&gt;
+  &lt;li&gt;Do you have &lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt; experience?&lt;/li&gt;
+  &lt;li&gt;Do you have &lt;a href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt; experience?&lt;/li&gt;
+  &lt;li&gt;Do you have experience with APIs?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It became clear they were looking for a full stack developer with a background in JavaScript and PHP. It was also evident that the interviewer himself—being a CEO—didn’t have a developer background. That explained why his questions were so general and why he asked a question as vague as, “Do you have experience with APIs?”&lt;/p&gt;
+
+&lt;p&gt;I was honest with him. I had used PHP, WordPress, and Bootstrap at various times in my life, but I wasn’t exactly confident with any of them. I enjoy JavaScript, but PHP is my least favorite language.&lt;/p&gt;
+
+&lt;p&gt;When I asked about the work environment, he said they generally work 9 to 5 but have flexible hours and the potential to work remotely. They use &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; 20 hours a day, but “obviously that’s not a job requirement.” Their 2 full time developers have a long term project as well as small projects throughout the week. They have weekly development meetings and set quarterly objectives.&lt;/p&gt;
+
+&lt;p&gt;He mentioned that he had already interviewed 10 other candidates, but only 3 will be invited to an on-site interview in a few weeks. These would be determined based on a 1-2 hour online coding test. He never ended up sending me the coding test. After a few weeks he let me know they had decided on another candidate.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">I was introduced to Prep Network when its CEO contacted me via my enrollment in SciTechsperience. Prep Network’s goal is “to be the country’s most comprehensive resource for evaluation and recruitment in high school athletics.” Having only 11 full time employees, it’s the smallest company where I’ve interviewed. We scheduled a phone interview which lasted 23 minutes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/interview-impressions-prep-network-logo.jpg" /></entry><entry><title type="html">Interview Impressions: RevTrak</title><link href="http://localhost:4000/2019/03/14/interview-impressions-revtrak/" rel="alternate" type="text/html" title="Interview Impressions: RevTrak" /><published>2019-03-14T00:00:00-05:00</published><updated>2019-03-14T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/14/interview-impressions-revtrak</id><content type="html" xml:base="http://localhost:4000/2019/03/14/interview-impressions-revtrak/">&lt;p&gt;Over the course of my summer 2018 internship search I applied to around 10 companies. The only company I ended up interviewing with was the only one that reached out to me first: &lt;a href=&quot;https://www.revtrak.com/&quot;&gt;RevTrak&lt;/a&gt;, a K-12 payment processing company. They most likely contacted me due to my connections with the human resources assistant and other employees through church.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -372,31 +400,4 @@
 
 &lt;p&gt;You own your content. The devs behind Jekyll could give up on the project and you’d still have online and local copies of your entire site. This isn’t true of many other platforms. They could go out of business or shut down the part of the business you rely on. You’d always be at risk of losing your content. Not so of Jekyll!&lt;/p&gt;
 
-&lt;p&gt;Free, static, flexible, open source, and owned by you. That’s what you get when you choose Jekyll on GitHub Pages. There are no doubt many other worthy options to consider, and you should look into these, but for me personally I found exactly what I wanted right here.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on GitHub Pages using Jekyll. This choice especially makes sense for: Developers – Jekyll lets you write your own code. Bloggers – Jekyll offers excellent blog support. And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/reasons-jekyll-logo.jpg" /></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/2019/01/01/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2019-01-01T00:00:00-06:00</published><updated>2019-01-01T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/01/hello-world</id><content type="html" xml:base="http://localhost:4000/2019/01/01/hello-world/">&lt;p&gt;Hi there! I’m Peter.&lt;/p&gt;
-
-&lt;p&gt;I wrote my first line of code when I was eight, and I’ve loved it ever since. Since then I’ve created games, desktop apps, databases, macros, websites, web crawlers, trading algorithms–whatever piques my curiosity, really. I’m fascinated by interesting problems, and I enjoy writing code to solve them. I’m currently majoring in computer science at the &lt;a href=&quot;https://unwsp.edu/&quot;&gt;University of Northwestern – St. Paul&lt;/a&gt;, and I’ll graduate later this year.&lt;/p&gt;
-
-&lt;p&gt;In this first post I’d like to get a few things out of the way.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h3 id=&quot;this-is-a-developer-blog&quot;&gt;This is a developer blog.&lt;/h3&gt;
-
-&lt;p&gt;The focus is on technology, not on me. This is meant as a space for me to share my thoughts about relevant topics in computer science that interest me and that I believe may interest others. I will also write about projects I’m working on. This is intentionally broad because I don’t want to restrict myself to specific topics so early on.&lt;/p&gt;
-
-&lt;h3 id=&quot;i-have-several-reasons-for-writing-here&quot;&gt;I have several reasons for writing here.&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;To learn new things constantly.&lt;/li&gt;
-  &lt;li&gt;To master what I’m learning by teaching it to others.&lt;/li&gt;
-  &lt;li&gt;To keep a historical record of my thoughts and work.&lt;/li&gt;
-  &lt;li&gt;To benefit readers by adding something unique to the conversation.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I have no intention of reaching a wide audience. Even if nobody reads what I write, my first three goals will be fulfilled. That is enough for me.&lt;/p&gt;
-
-&lt;h3 id=&quot;posts-will-be-published-every-tuesday-at-minimum&quot;&gt;Posts will be published every Tuesday at minimum.&lt;/h3&gt;
-
-&lt;p&gt;This schedule will help to keep myself accountable. It may change to become more or less frequent as time goes on.&lt;/p&gt;
-
-&lt;p&gt;Next week I’ll move beyond introduction and start discussing topics in the industry.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">Hi there! I’m Peter. I wrote my first line of code when I was eight, and I’ve loved it ever since. Since then I’ve created games, desktop apps, databases, macros, websites, web crawlers, trading algorithms–whatever piques my curiosity, really. I’m fascinated by interesting problems, and I enjoy writing code to solve them. I’m currently majoring in computer science at the University of Northwestern – St. Paul, and I’ll graduate later this year. In this first post I’d like to get a few things out of the way.</summary></entry></feed>
+&lt;p&gt;Free, static, flexible, open source, and owned by you. That’s what you get when you choose Jekyll on GitHub Pages. There are no doubt many other worthy options to consider, and you should look into these, but for me personally I found exactly what I wanted right here.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on GitHub Pages using Jekyll. This choice especially makes sense for: Developers – Jekyll lets you write your own code. Bloggers – Jekyll offers excellent blog support. And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/reasons-jekyll-logo.jpg" /></entry></feed>

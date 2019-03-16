@@ -2,6 +2,8 @@
 layout: post
 title: 'Interview Impressions: Prep Network'
 category: News
+image: /public/images/interview-impressions-prep-network-logo.jpg
+image_is_header: true
 ---
 
 I was introduced to [Prep Network](https://www.prepnetwork.com/) when its CEO contacted me via my enrollment in [SciTechsperience](https://scitechmn.org/). Prep Network's goal is "to be the country’s most comprehensive resource for evaluation and recruitment in high school athletics." Having only 11 full time employees, it's the smallest company where I've interviewed. We scheduled a phone interview which lasted 23 minutes.
