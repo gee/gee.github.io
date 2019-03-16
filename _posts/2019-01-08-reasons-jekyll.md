@@ -2,6 +2,8 @@
 layout: post
 title: 5 Reasons to Choose Jekyll
 category: News
+image: /public/images/reasons-jekyll-logo.jpg
+image_is_header: true
 ---
 
 The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on [GitHub Pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/). This choice especially makes sense for:

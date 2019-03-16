@@ -2,6 +2,8 @@
 layout: post
 title: You Copied Minecraft!
 category: News
+image: /public/images/copied-minecraft-logo.jpg
+image_is_header: true
 ---
 
 A common remark I hear when someone first plays Beginnings is that we copied Minecraft. It's true there are similarities; I even describe our game as being similar to Minecraft. Despite this, similarity does not imply copying.

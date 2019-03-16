@@ -2,6 +2,8 @@
 layout: post
 title: Senior Project Ideas
 category: News
+image: /public/images/senior-project-ideas-beginnings.png
+image_is_header: false
 ---
 
 This semester I have two main focuses: my internship and my senior project. Last month I started an internship at [Invenshure](https://invenshure.com/) — more on that in a future post. This month I'm starting on my senior project. Although my advisor Dr. Zderad allows great flexibility in choosing a topic, the focus should be on actually creating something. Research is secondary for this particular project.
@@ -17,11 +19,15 @@ Naturally the first step is choosing a topic, and over the past couple months I'
 
 ### 3D Object Fitting Algorithm (C++)
 
+<img src="/public/images/senior-project-ideas-protolabs.jpg" width="300" align="right">
+
 When interviewing at [Protolabs](https://www.protolabs.com/) I asked: "Do you have an idea of something I could work on in preparation for the internship?"
 
 My interviewers gave several topics I could learn about: version control, Visual Studio, large codebases, geometry and linear algebra, and file I/O in C++. One that stuck out was the simple task of fitting a box around a 3D object at a low level. I decided this would work well as a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product), and more features could be added over time: shapes more complex than a box, changes in orientation to allow for better fitting, and perhaps ultimately an algorithm that assigns a value to how well a given object fits into a given shape.
 
 ### Bible Memory Mobile App (Java)
+
+<img src="/public/images/senior-project-ideas-bible.jpg" width="300" align="right">
 
 Recently I've been using [The Bible Memory App](https://biblememory.com/) to learn scripture. There's a lot to like, but I can't help but think I could do a better job. It lacks several features I consider crucial as well as some that would just be handy:
 
@@ -46,6 +52,10 @@ I've already written a [profitable trading algorithm](/projects/currency/), but 
 
 The stock market appeals to me because gathering data and judging success are both straight forward. This means I could focus on the algorithm itself.
 
+<img src="/public/images/senior-project-ideas-stocks.jpg">
+
 ### Beginnings 2 (Lua)
 
 While every idea here appeals to me, the one I am actually most excited about is finishing [Beginnings 2](/projects/beginnings/). Although the game is nearly finished, even the remaining work is larger than a typical senior project. With that in mind, I asked my advisor whether this would be an option and he encouraged it. I've now decided that this will be my senior project, and I believe it's the push I need to finally finish the game.
+
+<img src="/public/images/senior-project-ideas-beginnings.png">

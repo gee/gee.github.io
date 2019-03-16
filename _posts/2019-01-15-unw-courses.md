@@ -2,6 +2,8 @@
 layout: post
 title: My Undergraduate Courses
 category: News
+image: /public/images/unw-courses-logo.jpg
+image_is_header: true
 ---
 
 Below I've listed all the courses within my computer science major that I've taken at the [University of Northwestern – St. Paul](https://unwsp.edu/). Only the courses that are strictly within my major are shown; I've also taken a number of general courses such as Physics and Economics. This post will serve as a reference for myself and for anyone interested in my coursework. Nearly everything below is taken straight from the syllabi.
