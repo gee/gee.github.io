@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-16T16:13:13-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Interview Impressions: Prep Network</title><link href="http://localhost:4000/2019/03/16/interview-impressions-prep-network/" rel="alternate" type="text/html" title="Interview Impressions: Prep Network" /><published>2019-03-16T00:00:00-05:00</published><updated>2019-03-16T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/16/interview-impressions-prep-network</id><content type="html" xml:base="http://localhost:4000/2019/03/16/interview-impressions-prep-network/">&lt;p&gt;I was introduced to &lt;a href=&quot;https://www.prepnetwork.com/&quot;&gt;Prep Network&lt;/a&gt; when its CEO contacted me via my enrollment in &lt;a href=&quot;https://scitechmn.org/&quot;&gt;SciTechsperience&lt;/a&gt;. Prep Network’s goal is “to be the country’s most comprehensive resource for evaluation and recruitment in high school athletics.” Having only 11 full time employees, it’s the smallest company where I’ve interviewed. We scheduled a phone interview which lasted 23 minutes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-19T17:36:35-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Interview Impressions: U.S. Bank</title><link href="http://localhost:4000/2019/03/19/interview-impressions-us-bank/" rel="alternate" type="text/html" title="Interview Impressions: U.S. Bank" /><published>2019-03-19T00:00:00-05:00</published><updated>2019-03-19T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/19/interview-impressions-us-bank</id><content type="html" xml:base="http://localhost:4000/2019/03/19/interview-impressions-us-bank/">&lt;p&gt;A friend of mine who had interviewed at &lt;a href=&quot;https://www.usbank.com/&quot;&gt;U.S. Bank&lt;/a&gt; the year before didn’t like what he saw. He had gotten an offer from them, but his impression was that they used outdated technology, outsourced a lot of development to India, and didn’t pay well compared to other internships. Needless to say, my first impression of U.S. Bank’s program wasn’t good. I had already decided not to turn down any interviews, though, so I accepted when they contacted me for a phone interview with a campus relations manager.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Questions asked included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why did you choose this program?&lt;/li&gt;
+  &lt;li&gt;Give an example of a team project that did not go as expected.&lt;/li&gt;
+  &lt;li&gt;Tell me a time when you explained the technical details of a project and what the end result was.&lt;/li&gt;
+  &lt;li&gt;When did you have a difficult conversation and how did you prepare for it?&lt;/li&gt;
+  &lt;li&gt;Give an example of when you had to do something you had never done before.&lt;/li&gt;
+  &lt;li&gt;Give an example of using a technical tool or language to enhance a project.&lt;/li&gt;
+  &lt;li&gt;Give an example of feedback you got and how you adjusted based on it.&lt;/li&gt;
+  &lt;li&gt;What was a potentially significant problem that came up and what steps did you take to resolve it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interview lasted 19 minutes. I learned it would be a 10-week internship starting on June 3. Each intern is assigned a mentor from a different department. My interviewer told me they would finish phone interviews that week, present candidates to HR the following week, and get back to me about a 30-minute interview in two weeks.&lt;/p&gt;
+
+&lt;p&gt;Sure enough, they contacted me a couple of weeks later about an onsite interview. The day of the interview, they emailed me to let me know that the interview was switched to &lt;a href=&quot;https://www.webex.com/&quot;&gt;WebEx&lt;/a&gt; instead of being onsite.&lt;/p&gt;
+
+&lt;p&gt;Questions asked included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why do you want to work here?&lt;/li&gt;
+  &lt;li&gt;Tell me about &lt;a href=&quot;/projects/beginnings/&quot;&gt;Beginnings&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;What’s an interesting technology problem you solved?&lt;/li&gt;
+  &lt;li&gt;What experience do you have with SQL?&lt;/li&gt;
+  &lt;li&gt;Tell me about &lt;a href=&quot;https://unwsp.edu/&quot;&gt;Northwestern’s&lt;/a&gt; competition that you won.&lt;/li&gt;
+  &lt;li&gt;What interests you about information security?&lt;/li&gt;
+  &lt;li&gt;What change management do you use for Beginnings?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interviewer this time around was a developer. He spent more time talking about the internship program than asking me questions. He said they were recruiting for an agile team with 6 members. Their focus is Java and SQL, and they work with a database containing 400 tables. They dress business casual and are becoming less formal over time. They used to have 1-2 hour meetings but now do 15-20 minute daily stand ups.&lt;/p&gt;
+
+&lt;p&gt;I followed up with them a couple weeks later, and they said they hadn’t made a decision yet. They ended up leaving me a message saying they’d chosen another candidate. A few weeks after that they told me a new position had opened up, and they wanted to know if I was still interested. I wasn’t, as I had already received offers from several companies where I’d rather work.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">A friend of mine who had interviewed at U.S. Bank the year before didn’t like what he saw. He had gotten an offer from them, but his impression was that they used outdated technology, outsourced a lot of development to India, and didn’t pay well compared to other internships. Needless to say, my first impression of U.S. Bank’s program wasn’t good. I had already decided not to turn down any interviews, though, so I accepted when they contacted me for a phone interview with a campus relations manager.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/interview-impressions-us-bank-logo.jpg" /></entry><entry><title type="html">Interview Impressions: Prep Network</title><link href="http://localhost:4000/2019/03/16/interview-impressions-prep-network/" rel="alternate" type="text/html" title="Interview Impressions: Prep Network" /><published>2019-03-16T00:00:00-05:00</published><updated>2019-03-16T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/16/interview-impressions-prep-network</id><content type="html" xml:base="http://localhost:4000/2019/03/16/interview-impressions-prep-network/">&lt;p&gt;I was introduced to &lt;a href=&quot;https://www.prepnetwork.com/&quot;&gt;Prep Network&lt;/a&gt; when its CEO contacted me via my enrollment in &lt;a href=&quot;https://scitechmn.org/&quot;&gt;SciTechsperience&lt;/a&gt;. Prep Network’s goal is “to be the country’s most comprehensive resource for evaluation and recruitment in high school athletics.” Having only 11 full time employees, it’s the smallest company where I’ve interviewed. We scheduled a phone interview which lasted 23 minutes.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -365,39 +400,4 @@
       &lt;td&gt;A survey course in choosing mathematical models to help explain and predict real-world phenomena. Particular problems in the social, life, physical, and management sciences are investigated. See: &lt;a href=&quot;/projects/autumn/&quot;&gt;Autumn Simulation&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">Below I’ve listed all the courses within my computer science major that I’ve taken at the University of Northwestern – St. Paul. Only the courses that are strictly within my major are shown; I’ve also taken a number of general courses such as Physics and Economics. This post will serve as a reference for myself and for anyone interested in my coursework. Nearly everything below is taken straight from the syllabi.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/unw-courses-logo.jpg" /></entry><entry><title type="html">5 Reasons to Choose Jekyll</title><link href="http://localhost:4000/2019/01/08/reasons-jekyll/" rel="alternate" type="text/html" title="5 Reasons to Choose Jekyll" /><published>2019-01-08T00:00:00-06:00</published><updated>2019-01-08T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/08/reasons-jekyll</id><content type="html" xml:base="http://localhost:4000/2019/01/08/reasons-jekyll/">&lt;p&gt;The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. This choice especially makes sense for:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Developers&lt;/strong&gt; – Jekyll lets you write your own code.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bloggers&lt;/strong&gt; – Jekyll offers excellent blog support.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why.&lt;!--more--&gt; A Jekyll site hosted on GitHub Pages is:&lt;/p&gt;
-
-&lt;h3 id=&quot;1-free&quot;&gt;1. Free&lt;/h3&gt;
-
-&lt;p&gt;GitHub Pages allows you to host an unlimited number of project sites at no cost. It works great with Jekyll, too. Although Jekyll can be hosted elsewhere and GitHub Pages supports all kinds of static site generators, I’ve found &lt;a href=&quot;https://jekyllrb.com/docs/github-pages/&quot;&gt;recommendations from Jekyll to use GitHub Pages&lt;/a&gt; and &lt;a href=&quot;https://help.github.com/articles/about-github-pages-and-jekyll/&quot;&gt;recommendations from GitHub Pages to use Jekyll&lt;/a&gt;. They belong together.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-static&quot;&gt;2. Static&lt;/h3&gt;
-
-&lt;p&gt;Everything on your site is static. This means your site is:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt; – You don’t have to wait for a database or anything else on the backend because there is no backend.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lightweight&lt;/strong&gt; – There aren’t a lot of plugins or dependencies to worry about.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Reliable&lt;/strong&gt; – Jekyll’s small scope means there’s no server-side software to maintain.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-flexible&quot;&gt;3. Flexible&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is great for software developers. It gives you total control and doesn’t force you to do anything you don’t want to do. However, even the less technically inclined are free to set up a website. There are all kinds of &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;free themes&lt;/a&gt; to choose from if you don’t want to design your own. Someone even made a &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;guide&lt;/a&gt; to setting up your site without using the command line.&lt;/p&gt;
-
-&lt;h3 id=&quot;4-open-source&quot;&gt;4. Open source&lt;/h3&gt;
-
-&lt;p&gt;All the code can be &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;found on GitHub&lt;/a&gt;. This is also true of many themes, and, of course, the code for your own site if you so choose.&lt;/p&gt;
-
-&lt;h3 id=&quot;5-owned-by-you&quot;&gt;5. Owned by you&lt;/h3&gt;
-
-&lt;p&gt;You own your content. The devs behind Jekyll could give up on the project and you’d still have online and local copies of your entire site. This isn’t true of many other platforms. They could go out of business or shut down the part of the business you rely on. You’d always be at risk of losing your content. Not so of Jekyll!&lt;/p&gt;
-
-&lt;p&gt;Free, static, flexible, open source, and owned by you. That’s what you get when you choose Jekyll on GitHub Pages. There are no doubt many other worthy options to consider, and you should look into these, but for me personally I found exactly what I wanted right here.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">The web has no shortage of options when it comes to creating a website. I’m here to make the argument that you should host your site on GitHub Pages using Jekyll. This choice especially makes sense for: Developers – Jekyll lets you write your own code. Bloggers – Jekyll offers excellent blog support. And that’s why I’m using Jekyll for this developer blog. But I also believe it’s a good option for many other types of websites, and here are 5 reasons why.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/reasons-jekyll-logo.jpg" /></entry></feed>
+&lt;/table&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">Below I’ve listed all the courses within my computer science major that I’ve taken at the University of Northwestern – St. Paul. Only the courses that are strictly within my major are shown; I’ve also taken a number of general courses such as Physics and Economics. This post will serve as a reference for myself and for anyone interested in my coursework. Nearly everything below is taken straight from the syllabi.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/unw-courses-logo.jpg" /></entry></feed>
