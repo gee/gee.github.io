@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-19T17:36:35-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Interview Impressions: U.S. Bank</title><link href="http://localhost:4000/2019/03/19/interview-impressions-us-bank/" rel="alternate" type="text/html" title="Interview Impressions: U.S. Bank" /><published>2019-03-19T00:00:00-05:00</published><updated>2019-03-19T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/19/interview-impressions-us-bank</id><content type="html" xml:base="http://localhost:4000/2019/03/19/interview-impressions-us-bank/">&lt;p&gt;A friend of mine who had interviewed at &lt;a href=&quot;https://www.usbank.com/&quot;&gt;U.S. Bank&lt;/a&gt; the year before didn’t like what he saw. He had gotten an offer from them, but his impression was that they used outdated technology, outsourced a lot of development to India, and didn’t pay well compared to other internships. Needless to say, my first impression of U.S. Bank’s program wasn’t good. I had already decided not to turn down any interviews, though, so I accepted when they contacted me for a phone interview with a campus relations manager.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T23:54:58-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Peter Gee</title><subtitle>Software engineer studying computer science at &lt;a href=&quot;https://unwsp.edu/&quot; target=&quot;_blank&quot;&gt;UNWSP&lt;/a&gt;</subtitle><author><name>Peter Gee</name></author><entry><title type="html">Interview Impressions: Invenshure</title><link href="http://localhost:4000/2019/03/26/interview-impressions-invenshure/" rel="alternate" type="text/html" title="Interview Impressions: Invenshure" /><published>2019-03-26T00:00:00-05:00</published><updated>2019-03-26T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/26/interview-impressions-invenshure</id><content type="html" xml:base="http://localhost:4000/2019/03/26/interview-impressions-invenshure/">&lt;p&gt;I applied at &lt;a href=&quot;https://invenshure.com/&quot;&gt;Invenshure&lt;/a&gt; through &lt;a href=&quot;https://scitechmn.org/&quot;&gt;SciTechsperience&lt;/a&gt;. As a biotech incubator, Invenshure’s goal is to “build companies that change the world by turning hard problems into thriving businesses.” I got a phone interview scheduled with an embedded systems engineer who seemed to also be in charge of hiring interns.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Questions asked included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What do you know about Invenshure?&lt;/li&gt;
+  &lt;li&gt;What’s your proudest project? Tell me about it.&lt;/li&gt;
+  &lt;li&gt;Tell me more about your &lt;a href=&quot;/projects/currency/&quot;&gt;Market Maker Bot&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;What area of software development are you most interested in?&lt;/li&gt;
+  &lt;li&gt;Between web development and scientific development, which is your preference?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It lasted 18 minutes. My interviewer described how interns are assigned to one of Invenshure’s portfolio companies, although they still technically work for Invenshure. Although several things stood out to me about Invenshure, one that made them a top choice for me was simply the fact that they were open to interns working part time in the spring. That means I’d be able to potentially work another internship over the summer, giving me even more experience.&lt;/p&gt;
+
+&lt;p&gt;My interviewer followed up instantly to ask for times that would work for an onsite interview. He said I’d be interviewing with 3-4 people including a current intern, that there would be a small technical portion, and that I should bring something from my portfolio to show such as &lt;a href=&quot;/projects/beginnings/&quot;&gt;Beginnings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Although the interview was scheduled for an hour, I arrived 15 minutes early and ended up leaving 15 minutes late. It began with a tour, and after that was an interview with 4 employees: an embedded systems engineer (my first interviewer), a chief software architect, a software engineer, and a software engineer intern. It was incredibly conversational and unscripted. They wanted to see Beginnings, so the majority of the time involved showing them the ins and outs of the game from my laptop projected onto a TV.&lt;/p&gt;
+
+&lt;p&gt;After a half hour or so they left with the exception of the software engineer. He gave me a software test with 3 portions which would be completed with pseudocode on a whiteboard:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Given a string, write a function to determine whether it’s a palindrome&lt;/li&gt;
+  &lt;li&gt;Given an array of 1s and 0s, determine the number of groups of consecutive 1s&lt;/li&gt;
+  &lt;li&gt;Given a matrix of 1s and 0s, determine the number of islands (with an “island” defined as being separated by at least one 0 in both dimensions)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I aced the first two, and I started on an answer to the third but admitted I’d need more time to come up with a sufficient solution. He gave me some credit for recognizing the edge case where my initial algorithm would fail.&lt;/p&gt;
+
+&lt;p&gt;Throughout the interviews I learned they were looking for 4-5 interns, most of whom would come in the summer. Interns are placed in different portfolio companies based on their skillset. I was told I was a “very impressive” candidate and that I could potentially even choose which portfolio company I’d like to work with.&lt;/p&gt;
+
+&lt;p&gt;A couple weeks later I got an offer to start in the spring, as I had hoped. &lt;a href=&quot;/interview-impressions-prep-network/&quot;&gt;Prep Network&lt;/a&gt; had been my only other possibility for a spring internship. I accepted Invenshure’s offer and am working there to this day.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">I applied at Invenshure through SciTechsperience. As a biotech incubator, Invenshure’s goal is to “build companies that change the world by turning hard problems into thriving businesses.” I got a phone interview scheduled with an embedded systems engineer who seemed to also be in charge of hiring interns.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/interview-impressions-invenshure-logo.jpg" /></entry><entry><title type="html">Interview Impressions: U.S. Bank</title><link href="http://localhost:4000/2019/03/19/interview-impressions-us-bank/" rel="alternate" type="text/html" title="Interview Impressions: U.S. Bank" /><published>2019-03-19T00:00:00-05:00</published><updated>2019-03-19T00:00:00-05:00</updated><id>http://localhost:4000/2019/03/19/interview-impressions-us-bank</id><content type="html" xml:base="http://localhost:4000/2019/03/19/interview-impressions-us-bank/">&lt;p&gt;A friend of mine who had interviewed at &lt;a href=&quot;https://www.usbank.com/&quot;&gt;U.S. Bank&lt;/a&gt; the year before didn’t like what he saw. He had gotten an offer from them, but his impression was that they used outdated technology, outsourced a lot of development to India, and didn’t pay well compared to other internships. Needless to say, my first impression of U.S. Bank’s program wasn’t good. I had already decided not to turn down any interviews, though, so I accepted when they contacted me for a phone interview with a campus relations manager.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -271,133 +303,4 @@
 
 &lt;figure&gt;&lt;img src=&quot;/public/images/history-beginnings-series.png&quot; /&gt;&lt;figcaption&gt;The Survival Series&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Over the past few years we’ve been working on Beginnings 2 here and there. Of course we would have liked to release the game long ago, but several factors have caused delays. We have tremendous aspirations for the game, and we don’t want to release something half baked. It’s currently in Beta and benefits from testers in our community of fans. We will release the public version when we believe it’s ready.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">This blog seems a natural place to write about my projects. The largest of these is Beginnings, a game published on Roblox. In this post I’d like to go over the game’s history. If you’re more interested in the game’s current state, take a look at its project page.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/history-beginnings-series.png" /></entry><entry><title type="html">My Undergraduate Courses</title><link href="http://localhost:4000/2019/01/15/unw-courses/" rel="alternate" type="text/html" title="My Undergraduate Courses" /><published>2019-01-15T00:00:00-06:00</published><updated>2019-01-15T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/15/unw-courses</id><content type="html" xml:base="http://localhost:4000/2019/01/15/unw-courses/">&lt;p&gt;Below I’ve listed all the courses within my computer science major that I’ve taken at the &lt;a href=&quot;https://unwsp.edu/&quot;&gt;University of Northwestern – St. Paul&lt;/a&gt;. Only the courses that are strictly within my major are shown; I’ve also taken a number of general courses such as Physics and Economics. This post will serve as a reference for myself and for anyone interested in my coursework. Nearly everything below is taken straight from the syllabi.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Number&lt;/th&gt;
-      &lt;th&gt;Title&lt;/th&gt;
-      &lt;th&gt;Description&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS1075&lt;/td&gt;
-      &lt;td&gt;Principles of Computer Science&lt;/td&gt;
-      &lt;td&gt;An introduction to computer hardware, development of computer programs for problem solving, basics of programming, fundamentals of computer security, and the use of computer networks.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS2115&lt;/td&gt;
-      &lt;td&gt;Computer Software Development&lt;/td&gt;
-      &lt;td&gt;An introduction to developing front-end applications for databases and developing applications in a business environment. See: &lt;a href=&quot;/projects/freegan/&quot;&gt;Games Database App&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS2201&lt;/td&gt;
-      &lt;td&gt;C Programming Language&lt;/td&gt;
-      &lt;td&gt;Fundamental principles of programming in the “C” programming language: programming techniques, language, and vocabulary.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS2202&lt;/td&gt;
-      &lt;td&gt;C++ Programming Language&lt;/td&gt;
-      &lt;td&gt;Fundamental principles of programming in the C++ programming language: object-oriented programming, variables, data types, arrays, pointers, functions, and classes.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS3267&lt;/td&gt;
-      &lt;td&gt;Operating Systems Concepts&lt;/td&gt;
-      &lt;td&gt;An overview of the principles upon which all operating systems are built. The concepts of file, processor, input/output, and memory management are explored. In addition, higher-level concepts such as security, multiple processors, multitasking, concurrency, and transaction processing are covered. See: &lt;a href=&quot;/projects/hadoop/&quot;&gt;Hadoop Clusters&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS3369&lt;/td&gt;
-      &lt;td&gt;Computer Security Fundamentals&lt;/td&gt;
-      &lt;td&gt;An introduction to the concepts of security. These concepts are applied to areas such as programming, databases, networks, systems, and applications. The course covers general concepts and specific instances of security related threats. See: &lt;a href=&quot;/projects/quantum/&quot;&gt;Quantum Cryptography Presentation&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS3381&lt;/td&gt;
-      &lt;td&gt;Data Communications&lt;/td&gt;
-      &lt;td&gt;A comprehensive overview of the broad topic of data communications including IPv4 and IPv6. The ISO OSI model of data communications is used as a framework.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS3835&lt;/td&gt;
-      &lt;td&gt;Career Competencies Seminar&lt;/td&gt;
-      &lt;td&gt;Orientation and preparation for an academic internship. To be completed the semester immediately prior to enrolling in the internship course offered by the academic department.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;COS4845&lt;/td&gt;
-      &lt;td&gt;Senior Project&lt;/td&gt;
-      &lt;td&gt;A capstone experience for computer science majors in their senior year. Each student works on an in-depth, guided project, culminating in both a written report and an oral presentation.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MIS3265&lt;/td&gt;
-      &lt;td&gt;Systems Analysis and Design&lt;/td&gt;
-      &lt;td&gt;A course that covers the topic of Systems Analysis and Design within the context of the System Development Life Cycle (SDLC). The Unified Modeling Language (UML) is introduced and used to generate artifacts of the life cycle. The requirements, analysis, and design phases of the life cycle are explored in detail. See: &lt;a href=&quot;/projects/wsi/&quot;&gt;WSI Sports Production Flow&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MIS3361&lt;/td&gt;
-      &lt;td&gt;Database Management&lt;/td&gt;
-      &lt;td&gt;A course that presents the fundamental concepts of databases and the general architectures used in modern databases. The ideas of database design are presented along with topics such as database access, indexing, reports, and queries. The student is exposed to one a current database management systems. An actual database application using the programmability of the DBMS is created as part of this course.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MIS4465&lt;/td&gt;
-      &lt;td&gt;Computer Firewalls&lt;/td&gt;
-      &lt;td&gt;A course that presents the basics of VPN security and network firewalls. Basic installation techniques are covered along with how to make an intelligent choice of firewall technology. Basic firewall troubleshooting is also presented. This course aligns with the CheckPoint CCSA Certification outline.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MIS4466&lt;/td&gt;
-      &lt;td&gt;Computer Forensics&lt;/td&gt;
-      &lt;td&gt;An introductory course that provides the student with methods for conducting a computer forensics investigation including procedures, tools, ethics, and analysis. This course maps to the objectives of the International Association of Computer Investigative Specialists (IACIS) certification.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT2005&lt;/td&gt;
-      &lt;td&gt;Problem Solving&lt;/td&gt;
-      &lt;td&gt;An introduction to mathematics and mathematics problem solving, including problem selection, problem solving strategies, the problem solving process, and contemporary applications of mathematics.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT2055&lt;/td&gt;
-      &lt;td&gt;Statistics&lt;/td&gt;
-      &lt;td&gt;An introductory statistics course consisting of two major areas: descriptive and inferential statistics. Topics covered include methods for describing data, binomial and normal probability distributions, tests of hypothesis, analysis of variance, and linear regression.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT2121&lt;/td&gt;
-      &lt;td&gt;Calculus and Analytic Geometry I&lt;/td&gt;
-      &lt;td&gt;The study of functions, limits, derivatives, and applications of derivatives such as maxima/minima and related rates.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT2122&lt;/td&gt;
-      &lt;td&gt;Calculus and Analytic Geometry II&lt;/td&gt;
-      &lt;td&gt;The continued study of calculus to include antiderivatives, integration techniques, applications of definite integrals such as volumes of revolution, polar coordinates, series, sequences, and power series.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT2215&lt;/td&gt;
-      &lt;td&gt;Linear Algebra&lt;/td&gt;
-      &lt;td&gt;A course that provides an understanding of the concepts of linear system, linear transformation, linear independence, basis, vector space, row/column space, determinant, dimension, rank, eigenvector, and inner product space. It also provides an ability to solve linear equations, perform matrix operations, calculate determinants, perform vector operations, determine eigenvectors/eigenvalues, and diagonalize a matrix.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT2221&lt;/td&gt;
-      &lt;td&gt;Universal Theories of Mathematics I&lt;/td&gt;
-      &lt;td&gt;An introductory treatment on the development of the logical structure of mathematics including propositions, predicates, truth tables, and the rules of logic. A formal development of set theory including set operations, permutations, combinations, Pascal’s triangle, and partitions.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT2222&lt;/td&gt;
-      &lt;td&gt;Universal Theories of Mathematics II&lt;/td&gt;
-      &lt;td&gt;An in-depth analysis of axiomatic systems and proof techniques including: direct proof, proof by contradiction, existence proofs, and mathematical induction. A formal development of relations including equivalence classes, partial orders, and functions. A study of the concepts of infinity and countability.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT3225&lt;/td&gt;
-      &lt;td&gt;Discrete Mathematics&lt;/td&gt;
-      &lt;td&gt;An overview of the mathematics of discrete processes. Topics include graphs, trees, linear programming, recursion, and algorithm analysis.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT3226&lt;/td&gt;
-      &lt;td&gt;Digital Mathematics&lt;/td&gt;
-      &lt;td&gt;An overview of the mathematics of the discrete processes of computers. Topics include the fundamentals of logic, Boolean algebra, number systems, and logical circuits.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MAT4337&lt;/td&gt;
-      &lt;td&gt;Mathematical Models and Applications&lt;/td&gt;
-      &lt;td&gt;A survey course in choosing mathematical models to help explain and predict real-world phenomena. Particular problems in the social, life, physical, and management sciences are investigated. See: &lt;a href=&quot;/projects/autumn/&quot;&gt;Autumn Simulation&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">Below I’ve listed all the courses within my computer science major that I’ve taken at the University of Northwestern – St. Paul. Only the courses that are strictly within my major are shown; I’ve also taken a number of general courses such as Physics and Economics. This post will serve as a reference for myself and for anyone interested in my coursework. Nearly everything below is taken straight from the syllabi.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/unw-courses-logo.jpg" /></entry></feed>
+&lt;p&gt;Over the past few years we’ve been working on Beginnings 2 here and there. Of course we would have liked to release the game long ago, but several factors have caused delays. We have tremendous aspirations for the game, and we don’t want to release something half baked. It’s currently in Beta and benefits from testers in our community of fans. We will release the public version when we believe it’s ready.&lt;/p&gt;</content><author><name>Peter Gee</name></author><category term="News" /><summary type="html">This blog seems a natural place to write about my projects. The largest of these is Beginnings, a game published on Roblox. In this post I’d like to go over the game’s history. If you’re more interested in the game’s current state, take a look at its project page.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/public/images/history-beginnings-series.png" /></entry></feed>
