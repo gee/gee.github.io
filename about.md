@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="/public/images/profile.png" width="300" align="right">
+<img src="/public/images/profile.jpg" width="300" align="right">
 
 Hi there! I'm Peter.
 

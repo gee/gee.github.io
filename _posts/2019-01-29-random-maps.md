@@ -14,7 +14,7 @@ Today we'll be looking at random map generation in Beginnings 2. Every server wi
 
 First, a number of islands are selected from a pool. While Beginnings currently has 14 islands, Beginnings 2 will have an island pool around 3 times that size. From this pool the algorithm randomly selects islands to place in a server. The algorithm makes sure all resource types are included in at least one spot on the map.
 
-<figure><img src="/public/images/random-maps-generations.png"><figcaption>Some random maps</figcaption></figure>
+<figure><img src="/public/images/random-maps-generations.jpg"><figcaption>Some random maps</figcaption></figure>
 
 ### Island Placement
 

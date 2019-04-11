@@ -1,13 +1,13 @@
 ---
 layout: page
-image: /public/images/cef-thumbnail.png
+image: /public/images/cef-thumbnail.jpg
 title: CEF Twin Cities Website
 year: 2016
 summary: An easily-customizable website for Child Evangelism Fellowship Twin Cities.
 rank: 3
 ---
 
-<img src="/public/images/cef-header.png">
+<img src="/public/images/cef-header.jpg">
 
 Child Evangelism Fellowship Twin Cities needed a <a href="http://www.ceftwincities.com/">new website</a>. Some key objectives included:
 

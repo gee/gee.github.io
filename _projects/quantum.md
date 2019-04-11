@@ -1,17 +1,17 @@
 ---
 layout: page
-image: /public/images/quantum-processor.png
+image: /public/images/quantum-processor.jpg
 title: Quantum Cryptography Presentation
 year: 2017
 summary: A class presentation on an increasingly relevant computer security topic.
 rank: 9
 ---
 
-<img src="/public/images/quantum-bits.png" width="200" align="right">
+<img src="/public/images/quantum-bits.jpg" width="200" align="right">
 
 This class assignment required that I do considerable research into a relevant computer security topic. Quantum encryption seemed interesting. In the presentation I discussed topics such as:
 
-<img src="/public/images/quantum-processor.png" width="200" align="right">
+<img src="/public/images/quantum-processor.jpg" width="200" align="right">
 
 * Bits v. qubits
 * Classical v. quantum cryptography
@@ -21,7 +21,7 @@ This class assignment required that I do considerable research into a relevant c
 * Quantum computing
 * Why it's important
 
-<img src="/public/images/quantum-micius.png" width="300" align="right">
+<img src="/public/images/quantum-micius.jpg" width="300" align="right">
 
 Here's a brief outline of quantum cryptography's history:
 

@@ -2,7 +2,7 @@
 layout: post
 title: The History of Beginnings
 category: News
-image: /public/images/history-beginnings-series.png
+image: /public/images/history-beginnings-series.jpg
 image_is_header: false
 ---
 
@@ -18,7 +18,7 @@ David went on to create Survival 202 and Survival 303 that same year. 303 became
 
 Meanwhile many of us continued to play 303. When David shifted his focus elsewhere, he gave me permission to update the game in his stead. Several others joined the 303 development team later, and [the game receives updates to this day](https://www.roblox.com/games/480485987/Survival-303).
 
-<figure><img src="/public/images/history-beginnings-303.png"><figcaption>Survival 303</figcaption></figure>
+<figure><img src="/public/images/history-beginnings-303.jpg"><figcaption>Survival 303</figcaption></figure>
 
 In November 2013 I decided to make a sequel to 303. I had experience with the genre and a desire to grow the Survival Series. Thus I began work on Survival: Beginnings. My brother Nathan joined not long after. By chance David also decided to make a sequel to 303 around the same time, Survival 323.
 

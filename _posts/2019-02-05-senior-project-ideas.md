@@ -2,7 +2,7 @@
 layout: post
 title: Senior Project Ideas
 category: News
-image: /public/images/senior-project-ideas-beginnings.png
+image: /public/images/senior-project-ideas-beginnings.jpg
 image_is_header: false
 ---
 
@@ -58,4 +58,4 @@ The stock market appeals to me because gathering data and judging success are bo
 
 While every idea here appeals to me, the one I am actually most excited about is finishing [Beginnings 2]({% link _projects/beginnings.md %}). Although the game is nearly finished, even the remaining work is larger than a typical senior project. With that in mind, I asked my advisor whether this would be an option and he encouraged it. I've now decided that this will be my senior project, and I believe it's the push I need to finally finish the game.
 
-<img src="/public/images/senior-project-ideas-beginnings.png">
+<img src="/public/images/senior-project-ideas-beginnings.jpg">
