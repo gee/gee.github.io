@@ -8,7 +8,7 @@ image_is_header: false
 
 Monetization is one of the most controversial topics in gaming today. Should a game have a single upfront cost? Should it be free-to-play? What about [freemium](https://en.wikipedia.org/wiki/Freemium)? Are loot boxes ethical? What should we sell, and what should be off limits? Should a game's monetization scheme depend on its genre?
 
-These questions are particularly relevant for competitive online games with plenty of interaction between players. Since [Beginnings](/projects/beginnings/) falls under that description this is a topic I've put a lot of thought into. In our case we originally had no intentions of selling anything because we had no idea the game would become popular. Since then we've adopted a freemium model. We offer the vast majority of the game for free, but certain additional features or customizations are for sale. It seems to me that there are 4 basic categories that these kinds of microtransactions can be split into: power, mechanic, convenience, and cosmetic.
+These questions are particularly relevant for competitive online games with plenty of interaction between players. Since [Beginnings]({% link _projects/beginnings.md %}) falls under that description this is a topic I've put a lot of thought into. In our case we originally had no intentions of selling anything because we had no idea the game would become popular. Since then we've adopted a freemium model. We offer the vast majority of the game for free, but certain additional features or customizations are for sale. It seems to me that there are 4 basic categories that these kinds of microtransactions can be split into: power, mechanic, convenience, and cosmetic.
 
 <!--more-->
 

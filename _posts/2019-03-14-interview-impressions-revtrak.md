@@ -20,7 +20,7 @@ Questions asked included:
 * What kind of tasks are you best at?
 * What kind of tasks do you most enjoy?
 * What kind of tasks do you least enjoy?
-* Could you give me a 5 minute rundown of [Beginnings](/projects/beginnings/)?
+* Could you give me a 5 minute rundown of [Beginnings]({% link _projects/beginnings.md %})?
 * What are some things you've heard about RevTrak?
 * What's your decision making timeline?
 * What's your most important factor in making a decision?

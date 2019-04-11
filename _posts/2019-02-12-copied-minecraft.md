@@ -12,7 +12,7 @@ A common remark I hear when someone first plays Beginnings is that we copied Min
 
 ### We had survival gameplay first.
 
-[As discussed previously](/2019/01/22/history-beginnings/), Beginnings is just one part of a family of games I call The Survival Series. The first of these, Survival 101, was released in June 2009. Minecraft didn't release its [first survival version](https://minecraft.gamepedia.com/Survival_Test) until September 2009.
+[As discussed previously]({% post_url 2019-01-22-history-beginnings %}), Beginnings is just one part of a family of games I call The Survival Series. The first of these, Survival 101, was released in June 2009. Minecraft didn't release its [first survival version](https://minecraft.gamepedia.com/Survival_Test) until September 2009.
 
 Thus, Survival 101 included many features that are today associated with Minecraft before Minecraft itself did. For everything we've kept the same since 101, we clearly didn't copy Minecraft.
 

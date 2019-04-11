@@ -28,7 +28,7 @@ Sure enough, they contacted me a couple of weeks later about an onsite interview
 Questions asked included:
 
 * Why do you want to work here?
-* Tell me about [Beginnings](/projects/beginnings/).
+* Tell me about [Beginnings]({% link _projects/beginnings.md %}).
 * What's an interesting technology problem you solved?
 * What experience do you have with SQL?
 * Tell me about [Northwestern's](https://unwsp.edu/) competition that you won.

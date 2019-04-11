@@ -48,7 +48,7 @@ Who knows, maybe there's already an app out there that has these features. But t
 
 Perhaps the craziest idea I've been considering is stock market prediction. Certainly many have tried, and I too would likely fail, but failure can be glorious if you learn something in the process. Data science is an area I'm interested in but haven't yet dived into. Even my initial research shows [someone achieving 54% accuracy in 20 minutes](https://hackernoon.com/i-spent-20-minutes-trying-to-predict-the-stock-market-with-ai-these-are-my-results-59d48c7a388a).
 
-I've already written a [profitable trading algorithm](/projects/currency/), but competition would be several orders of magnitude greater on the actual stock market. Of course I would start with a simulator to make trades if I ever got to that point.
+I've already written a [profitable trading algorithm]({% link _projects/currency.md %}), but competition would be several orders of magnitude greater on the actual stock market. Of course I would start with a simulator to make trades if I ever got to that point.
 
 The stock market appeals to me because gathering data and judging success are both straight forward. This means I could focus on the algorithm itself.
 
@@ -56,6 +56,6 @@ The stock market appeals to me because gathering data and judging success are bo
 
 ### Beginnings 2 (Lua)
 
-While every idea here appeals to me, the one I am actually most excited about is finishing [Beginnings 2](/projects/beginnings/). Although the game is nearly finished, even the remaining work is larger than a typical senior project. With that in mind, I asked my advisor whether this would be an option and he encouraged it. I've now decided that this will be my senior project, and I believe it's the push I need to finally finish the game.
+While every idea here appeals to me, the one I am actually most excited about is finishing [Beginnings 2]({% link _projects/beginnings.md %}). Although the game is nearly finished, even the remaining work is larger than a typical senior project. With that in mind, I asked my advisor whether this would be an option and he encouraged it. I've now decided that this will be my senior project, and I believe it's the push I need to finally finish the game.
 
 <img src="/public/images/senior-project-ideas-beginnings.png">

@@ -6,7 +6,7 @@ image: /public/images/history-beginnings-series.png
 image_is_header: false
 ---
 
-This blog seems a natural place to write about my projects. The largest of these is Beginnings, a game published on [Roblox](https://www.roblox.com/). In this post I'd like to go over the game's history. If you're more interested in the game's current state, take a look at its [project page](/projects/beginnings/).
+This blog seems a natural place to write about my projects. The largest of these is Beginnings, a game published on [Roblox](https://www.roblox.com/). In this post I'd like to go over the game's history. If you're more interested in the game's current state, take a look at its [project page]({% link _projects/beginnings.md %}).
 
 <!--more-->
 
