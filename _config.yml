@@ -9,7 +9,7 @@ permalink:        /:year/:month/:day/:title/
 title:            Peter Gee
 tagline:          'Software Engineer'
 description:      'Software engineer studying computer science at <a href="https://unwsp.edu/" target="_blank">UNWSP</a>'
-url:              http://www.petergee.me
+url:              http://www.petergee.dev
 
 author:
   name:           'Peter Gee'
