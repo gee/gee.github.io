@@ -4,7 +4,7 @@ image: /public/images/wsi-logo-2.jpg
 title: WSI Sports Production Flow
 year: 2017
 summary: The analysis of WSI Sports' production flow and the design of relevant improvements.
-rank: 6
+rank: 8
 ---
 
 <img src="/public/images/wsi-diagram.jpg">
@@ -15,6 +15,6 @@ We met with the founder and owner of WSI Sports, as well as other coworkers, sev
 
 <img src="/public/images/wsi-photo.jpg">
 
-First, one problem that needed solving was the time-consuming process of manually entering purchase orders and vendor orders. Occasional user error was probable, and error could ultimately be avoided by implementing an automated system to synchronize order information. This would not be a difficult task, given that QuickBooks offers a great variety of integrations to work with potential sources for orders, found here (https://apps.intuit.com/). WSI does manual integration with at least Amazon, Shopify, Square, and Excel. QuickBooks supports all of these using automatic integration.
+First, one problem that needed solving was the time-consuming process of manually entering purchase orders and vendor orders. Occasional user error was probable, and error could ultimately be avoided by implementing an automated system to synchronize order information. This would not be a difficult task, given that QuickBooks offers a great variety of integrations to work with potential sources for orders, [found here](https://quickbooks.intuit.com/app/apps/home/). WSI does manual integration with at least Amazon, Shopify, Square, and Excel. QuickBooks supports all of these using automatic integration.
 
-Second, stickers are attached to differentiate bundles of material. Not only are the stickers made up of hand-written data that is already in their QuickBooks database, user error has been known to cause problems. A solution to this would be to create an application that retrieves information from their existing database and prints it respectively for easy application to the bundles. This would cut down the sticker process time and maintain accurate information by avoiding the possibility of user error. This can be addressed by writing software that interacts with the QuickBooks Online API, found here (https://developer.intuit.com/). This is a RESTful web service. The software application would fetch data via this API, then format it similarly to how WSI's UPC sheets are currently. These could then be applied to a label rather than handwriting the information.
+Second, stickers are attached to differentiate bundles of material. Not only are the stickers made up of hand-written data that is already in their QuickBooks database, user error has been known to cause problems. A solution to this would be to create an application that retrieves information from their existing database and prints it respectively for easy application to the bundles. This would cut down the sticker process time and maintain accurate information by avoiding the possibility of user error. This can be addressed by writing software that interacts with the QuickBooks Online API, [found here](https://developer.intuit.com/). This is a RESTful web service. The software application would fetch data via this API, then format it similarly to how WSI's UPC sheets are currently. These could then be applied to a label rather than handwriting the information.

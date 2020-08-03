@@ -4,7 +4,7 @@ image: /public/images/freegan-thumbnail.jpg
 title: Games Database App
 year: 2016
 summary: A simple desktop app for comparing games.
-rank: 8
+rank: 10
 ---
 
 <img src="/public/images/freegan-window.jpg">

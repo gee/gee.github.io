@@ -4,18 +4,18 @@ image: /public/images/demi-map-2.jpg
 title: Census Tracts Web Crawler
 year: 2016
 summary: A web crawler that scrapes relevant census data and outputs demographic studies.
-rank: 2
+rank: 4
 ---
 
 <img src="/public/images/demi-header.jpg">
 
 <img src="/public/images/demi-logo.jpg" width="300" align="right">
 
-One day at the Child Evangelism Fellowship Twin Cities office I was assigned the task of manually gathering data from the United States Census Bureau's <a href="https://factfinder.census.gov/">American Fact Finder</a>. It seemed reasonable enough until I realized we needed demographic studies for Hennepin County's 300 census tracts at minimum, and ideally we'd have studies for all of Minnesota's 1,336 tracts. Each study required several minutes to make. It became clear that doing the work manually would cost days, even weeks of monotonous work. Worse, the process would need to be repeated whenever new data emerged. There had to be a better solution!
+One day at the Child Evangelism Fellowship Twin Cities office I was assigned the task of manually gathering data from the United States Census Bureau's American Fact Finder (census data has since moved [here](https://data.census.gov/cedsci/)). It seemed reasonable enough until I realized we needed demographic studies for Hennepin County's 300 census tracts at minimum, and ideally we'd have studies for all of Minnesota's 1,336 tracts. Each study required several minutes to make. It became clear that doing the work manually would cost days, even weeks of monotonous work. Worse, the process would need to be repeated whenever new data emerged. There had to be a better solution!
 
 <img src="/public/images/demi-output.jpg" width="300" align="right">
 
-I brought up the idea of creating a bot to do the process automatically. My supervisor agreed, and so I wrote a Java bot (nicknamed "Demi") using an API called <a href="http://www.seleniumhq.org/">Selenium</a>. It included two parts: data scraping and study creation. Writing the program took much less time than the manual process would have, and it will save even more time when new census data becomes available.
+I brought up the idea of creating a bot to do the process automatically. My supervisor agreed, and so I wrote a Java bot (nicknamed "Demi") using an API called [Selenium](https://www.selenium.dev/). It included two parts: data scraping and study creation. Writing the program took much less time than the manual process would have, and it will save even more time when new census data becomes available.
 
 Here's one of the output's 1,336 studies:
 ```

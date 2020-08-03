@@ -4,7 +4,7 @@ image: /public/images/quantum-processor.jpg
 title: Quantum Cryptography Presentation
 year: 2017
 summary: A class presentation on an increasingly relevant computer security topic.
-rank: 9
+rank: 11
 ---
 
 <img src="/public/images/quantum-bits.jpg" width="200" align="right">

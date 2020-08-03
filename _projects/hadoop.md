@@ -4,7 +4,7 @@ image: /public/images/hadoop-logo-2.jpg
 title: Hadoop Clusters
 year: 2018
 summary: The creation of two Hadoop clusters — one in the cloud and one in a Linux lab.
-rank: 5
+rank: 7
 ---
 
 <img src="/public/images/hadoop-banner.jpg">
@@ -25,7 +25,7 @@ The next day, a mysterious entity called "dr.who" accessed my systems and began 
 
 <img src="/public/images/hadoop-lab.jpg">
 
-Second, I wanted a cluster in the university’s Linux lab. There are 19 workstations, and I used 13 in my cluster: 1 master and 12 workers. Because I did not have root permissions on the machines themselves, I had to first create 13 Ubuntu virtual machines. When it came to issuing commands in Bash, I sped up the process by using SSH to login to each of the 12 worker nodes from my master node. Looking back, this process could have been further streamlined by running a Perl script to run each command on all the nodes at once.
+Second, I wanted a cluster in the university’s Linux lab. There are 19 workstations, and I used 13 in my cluster: 1 master and 12 workers. Because I did not have root permissions on the machines themselves, I had to first create 13 Ubuntu virtual machines. When it came to issuing commands in Bash, I sped up the process by using SSH to log in to each of the 12 worker nodes from my master node. Looking back, this process could have been further streamlined by running a Perl script to run each command on all the nodes at once.
 
 Fortunately, the Linux lab is protected by the University of Northwestern – St. Paul's security, and thus I had no need to worry about any other infiltrators. The 13-node cluster was able to run its MapReduce programs in peace, and it did so successfully after many hours of installation, configuration, troubleshooting, and so on.
 
